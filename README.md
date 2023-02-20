@@ -48,9 +48,16 @@ Hey yall here is my edit
 
 Edit for Lab Section 021L:
 -
+Hello this is my edit
 
 Edit for Lab Section 030L:
 -
+This edit is for my lab!
 
 Edit for Lab Section 031L:
+- 
+This is my Lab
+
+Edit for Lab Section 041L
 -
+If you're seeing this change in your own repo, you have successfully completed Step 7!
